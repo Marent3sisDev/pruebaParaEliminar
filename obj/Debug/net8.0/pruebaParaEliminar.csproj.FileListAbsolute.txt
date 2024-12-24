@@ -1,0 +1,15 @@
+/workspaces/pruebaParaEliminar/bin/Debug/net8.0/pruebaParaEliminar
+/workspaces/pruebaParaEliminar/bin/Debug/net8.0/pruebaParaEliminar.deps.json
+/workspaces/pruebaParaEliminar/bin/Debug/net8.0/pruebaParaEliminar.runtimeconfig.json
+/workspaces/pruebaParaEliminar/bin/Debug/net8.0/pruebaParaEliminar.dll
+/workspaces/pruebaParaEliminar/bin/Debug/net8.0/pruebaParaEliminar.pdb
+/workspaces/pruebaParaEliminar/obj/Debug/net8.0/pruebaParaEliminar.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/pruebaParaEliminar/obj/Debug/net8.0/pruebaParaEliminar.AssemblyInfoInputs.cache
+/workspaces/pruebaParaEliminar/obj/Debug/net8.0/pruebaParaEliminar.AssemblyInfo.cs
+/workspaces/pruebaParaEliminar/obj/Debug/net8.0/pruebaParaEliminar.csproj.CoreCompileInputs.cache
+/workspaces/pruebaParaEliminar/obj/Debug/net8.0/pruebaParaEliminar.sourcelink.json
+/workspaces/pruebaParaEliminar/obj/Debug/net8.0/pruebaParaEliminar.dll
+/workspaces/pruebaParaEliminar/obj/Debug/net8.0/refint/pruebaParaEliminar.dll
+/workspaces/pruebaParaEliminar/obj/Debug/net8.0/pruebaParaEliminar.pdb
+/workspaces/pruebaParaEliminar/obj/Debug/net8.0/pruebaParaEliminar.genruntimeconfig.cache
+/workspaces/pruebaParaEliminar/obj/Debug/net8.0/ref/pruebaParaEliminar.dll
